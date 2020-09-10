@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**Pierre-Gilles/Pierre-Gilles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer from France 🇫🇷. 
 
-Here are some ideas to get you started:
+I'm working part-time on open-source on [Gladys Assistant](https://github.com/GladysAssistant/Gladys), a +40k downloads privacy-first home assistant. It runs on a Raspberry Pi, a Synology NAS, or any machine running Docker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+On my other part-time, I'm working for tech companies on the following technologies:
+
+- Node.js: +7 years of XP, started playing with it in the early days aka Node 0.6!
+- PostgreSQL: My go-to database for large server applications. Spent lots of time reading about PostgreSQL performance & tuning.
+- Docker: Worked with Docker in production for years. 
+- Redis, RabbitMQ.
+
+I'm mainly working on the backend/infrastructure side, but I have strong skills in React as well. 
+
+## 📬 Get in touch
+
+- My personal website: https://pierregillesleymarie.com/
+- Twitter: twitter.com/pierregillesl
+- LinkedIn: linkedin.com/in/pierre-gilles-leymarie-a83914a7/
+
