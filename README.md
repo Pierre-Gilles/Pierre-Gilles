@@ -16,6 +16,6 @@ I'm mainly working on the backend/infrastructure side, but I have strong skills 
 ## 📬 Get in touch
 
 - My personal website: https://pierregillesleymarie.com/
-- Twitter: twitter.com/pierregillesl
-- LinkedIn: linkedin.com/in/pierre-gilles-leymarie-a83914a7/
+- Twitter: https://twitter.com/pierregillesl
+- LinkedIn: https://linkedin.com/in/pierre-gilles-leymarie-a83914a7/
 
