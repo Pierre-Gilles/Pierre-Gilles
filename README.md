@@ -6,7 +6,7 @@ I'm working part-time on open-source on [Gladys Assistant](https://github.com/Gl
 
 On my other part-time, I'm working for tech companies on the following technologies:
 
-- Node.js: +7 years of XP, started playing with it in the early days aka Node 0.6!
+- Node.js: +8 years of XP, started playing with it in the early days aka Node 0.6!
 - PostgreSQL: My go-to database for large server applications. Spent lots of time reading about PostgreSQL performance & tuning.
 - Docker: Worked with Docker in production for years. 
 - Redis, RabbitMQ.
