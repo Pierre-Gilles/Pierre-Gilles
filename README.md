@@ -2,20 +2,19 @@ Hi there 👋
 
 I am a Software Engineer from France 🇫🇷. 
 
-I'm working part-time on open-source on [Gladys Assistant](https://github.com/GladysAssistant/Gladys), a +40k downloads privacy-first home assistant. It runs on a Raspberry Pi, a Synology NAS, or any machine running Docker.
+Part-time, I work on [Gladys Assistant](https://github.com/GladysAssistant/Gladys), an open-source smart home software used by many users worldwide.
 
-On my other part-time, I'm working for tech companies on the following technologies:
+In the rest of my time, I work for tech companies, focusing on the following technologies:
 
-- Node.js: +8 years of XP, started playing with it in the early days aka Node 0.6!
-- PostgreSQL: My go-to database for large server applications. Spent lots of time reading about PostgreSQL performance & tuning.
-- Docker: Worked with Docker in production for years. 
+- Node.js: Over 10 years of experience, started using it in the early days with Node 0.6!
+- PostgreSQL: My go-to database for large server applications. I’ve spent a lot of time studying PostgreSQL performance and tuning.
+- Docker: Have worked with Docker in production for years.
 - Redis, RabbitMQ.
 
-I'm mainly working on the backend/infrastructure side, but I have strong skills in React as well. 
+I mainly work on the backend and infrastructure side, but I also have strong skills in React.
 
 ## 📬 Get in touch
 
 - My personal website: https://pierregillesleymarie.com/
 - Twitter: https://twitter.com/pierregillesl
 - LinkedIn: https://linkedin.com/in/pierre-gilles-leymarie-a83914a7/
-
